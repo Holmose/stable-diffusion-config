@@ -1,0 +1,21 @@
+{
+	"request": [],
+	"sendHeader": [
+		{
+			"enable": true,
+			"name": "Tunnel website",
+			"ruleType": "modifySendHeader",
+			"matchType": "regexp",
+			"pattern": "https://.*\\.loca\\.lt",
+			"exclude": "",
+			"group": "kaggle穿透",
+			"isFunction": false,
+			"action": {
+				"name": "bypass-tunnel-reminder",
+				"value": "xxx"
+			}
+		}
+	],
+	"receiveHeader": [],
+	"receiveBody": []
+}
