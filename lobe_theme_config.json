@@ -1,0 +1,23 @@
+{
+  "enableExtraNetworkSidebar": true,
+  "enableHighlight": true,
+  "enableSidebar": true,
+  "enableWebFont": true,
+  "extraNetworkCardSize": 86,
+  "extraNetworkFixedMode": "fixed",
+  "extraNetworkSidebarExpand": true,
+  "extraNetworkSidebarWidth": 340,
+  "i18n": "zh_CN",
+  "layoutHideFooter": false,
+  "layoutSplitPreview": false,
+  "liteAnimation": true,
+  "logoCustomTitle": "",
+  "logoCustomUrl": "",
+  "logoType": "kitchen",
+  "promptEditor": false,
+  "promptTextareaType": "resizable",
+  "sidebarExpand": true,
+  "sidebarFixedMode": "fixed",
+  "sidebarWidth": 280,
+  "svgIcon": true
+}
